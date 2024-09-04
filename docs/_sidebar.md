@@ -1,0 +1,14 @@
+<!-- docs/_sidebar.md -->
+- [Home](/)
+- Cesium Resources:
+  - [Cesium Native](https://github.com/CesiumGS/cesium-native#readme)
+  - [Cesium API](https://cesium.com/learn/apis/)
+- **Links**
+  - [Kartaverse](https://github.com/kartaverse)
+  - [Medium Blog](https://medium.com/@andrewhazelden)
+  - [Google Group](https://groups.google.com/g/kartaverse/)
+  - [Facebook Group](https://www.facebook.com/groups/kartavr)
+- **Contact**
+  - [Email](mailto:andrew@andrewhazelden.com)
+  - [GitHub](https://github.com/AndrewHazelden)
+  - [LinkedIn](https://www.linkedin.com/in/andrewhazelden/)
