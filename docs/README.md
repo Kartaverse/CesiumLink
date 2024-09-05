@@ -9,7 +9,7 @@ Welcome to the development repo for "CesiumLink" — a [Cesium native API](https
 
 
 - The Kartaverse 6 launch is planned for [Dec 24, 2024](https://days.to/christmas-eve/2024/12/24)
-- CesiumLink (WIP) is being created in West Dover, Nova Scotia, Canada 🇨🇦
+- Made in West Dover, Nova Scotia, Canada 🇨🇦
 
 # Overview
 
